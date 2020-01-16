@@ -35,3 +35,6 @@ This code was trained and tested on an Ubuntu 18.04 system with Tesla T4 GPU, us
 ## Sample output:
 
 ![download](https://user-images.githubusercontent.com/26281528/72544799-ffc7c000-38ad-11ea-809d-c477e083872a.png)
+
+
+Many thanks to [Francisco Massa](https://github.com/fmassa) for their starter code in the torchvision repo.
